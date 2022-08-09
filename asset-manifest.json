@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetch-Movies-React/static/css/main.cf77bbe5.css",
+    "main.js": "/Fetch-Movies-React/static/js/main.36f16051.js",
+    "index.html": "/Fetch-Movies-React/index.html",
+    "main.cf77bbe5.css.map": "/Fetch-Movies-React/static/css/main.cf77bbe5.css.map",
+    "main.36f16051.js.map": "/Fetch-Movies-React/static/js/main.36f16051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf77bbe5.css",
+    "static/js/main.36f16051.js"
+  ]
+}
